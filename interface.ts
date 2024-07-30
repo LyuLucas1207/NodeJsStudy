@@ -42,7 +42,15 @@ interface ISum {
     (a: number, b: number): number
 }
 
+//function using ISum interface
+
+function sumFunction(a: number, b: number): number {
+    return a + b;
+}
+
 let sum: ISum = (a, b) => a + b;
+
+
 
 
 // Class Interface

@@ -18,6 +18,10 @@ const random = {
     0: 'zero',
     like: 'coding'
 };
+//function using ISum interface
+function sumFunction(a, b) {
+    return a + b;
+}
 let sum = (a, b) => a + b;
 class PersonClass {
     constructor(name, age, career, isGood) {
