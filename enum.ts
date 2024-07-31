@@ -5,3 +5,4 @@ enum sex {
 
 sex.female; // 2
 
+export { }

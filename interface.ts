@@ -249,6 +249,8 @@ class Student implements IPerson2 {
 
 const student = new Student('John', 20);
 
+export { }
+
 
 
 

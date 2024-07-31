@@ -1,5 +1,6 @@
 "use strict";
 //泛型 <T>
+Object.defineProperty(exports, "__esModule", { value: true });
 function print(arg) {
     console.log(arg);
     return arg;

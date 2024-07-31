@@ -1,0 +1,11 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+const img = document.getElementById('Image');
+img.src = 'https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png';
+const input = document.getElementById('Input');
+input.value = 'Hello World!';
+const person1 = {};
+person1.name = 'John Doe';
+person1.age = 30;
+const person_2 = {};
+person_2.name = 'Jane Doe';

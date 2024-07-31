@@ -12,3 +12,4 @@ let add = (a: number, b: number): number => a + b;
 let add2: (a: number, b: number) => number = (a, b) => a + b;
 let add3: (a: number, b: number)=> number;
 add3 = add;
+export { }

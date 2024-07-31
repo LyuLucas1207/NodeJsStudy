@@ -128,7 +128,9 @@ class cook2 {
 const cook_1 = new cook();
 cook_1.step1();
 cook_1.step2();
-
+cook_1.step3();
+cook_1.step4();
 
 const cook_2 = new cook2();
-cook_2.step1().step2().step3();
+cook_2.step1().step2().step3().step4();
+export { }

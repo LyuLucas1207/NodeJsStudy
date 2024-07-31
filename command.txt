@@ -1,3 +1,4 @@
+npm i -g typescript 
 Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned
 tsc --init
 tsc --watch

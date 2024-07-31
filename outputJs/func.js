@@ -1,4 +1,5 @@
 "use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 function reverse(sOrN) {
     if (typeof sOrN === 'string') {
         return sOrN.split('').reverse().join('');

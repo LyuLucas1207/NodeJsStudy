@@ -64,3 +64,5 @@ interface ILength{
 function getLength<T extends ILength>(arg:T):number{
     return arg.length;
 }
+
+export { }
